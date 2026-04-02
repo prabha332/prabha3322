@@ -1,5 +1,4 @@
-## Hi there
-# 👋 Hi, I'm Prabhavati
+# Hi, I'm Prabhavati
 
  DevOps Engineer | Kubernetes Troubleshooter  
  Building **PlatformCTL** — simplifying Kubernetes debugging & automation  
